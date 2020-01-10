@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Hair RSV Manager</string>
+    <string name="client_label">Client:</string>
+    <string name="date_label">Date:</string>
+    <string name="time_label">Time:</string>
+    <string name="notes_label">Notes:</string>
+    <string name="choose_client_hint">Tap to choose client</string>
+    <string name="choose_date_hint">Tap to choose date</string>
+    <string name="choose_time_hint">Tap to choose time</string>
+    <string name="enter_note_hint">Enter note</string>
+    <string name="appointment_info_title">Appointment Info:</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+    <string name="name_label">Name:</string>
+    <string name="visits_to_free_label">Visits To Free:</string>
+    <string name="name_hint">Name</string>
+    <string name="phone_hint">Phone</string>
+    <string name="vistis_free_hint">0…4</string>
+    <string name="personal_info_title">Personal Info:</string>
+    <string name="notes_go_here_hint">Notes go here…</string>
+    <string name="added_label">Added:</string>
+    <string name="last_came_label">Last came:</string>
+    <string name="phone_label">Phone:</string>
+    <string name="list_of_appointments_button">List Of Appointments</string>
+    <string name="notes_label_2">Notes</string>
+    <string name="next_appointment_label">Next appointment:</string>
+    <string name="search_here_hint">Search here</string>
+    <string name="today_button">Today</string>
+    <string name="tomorrow_button">Tomorrow</string>
+
+</resources>
